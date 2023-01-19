@@ -30,6 +30,8 @@
 - `utils` : axios fetcher
 - `public`: favicon
 
+<br />
+
 ## ✔️ 작업 내역
 
 ### 1. Login / SignUp
