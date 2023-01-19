@@ -2,7 +2,7 @@
 
 # Wanted Pre-Onboarding Challenge FE 1
 
-<b> wanted-pre-onboarding-challenge-fe-1 </b>
+<b>필수 지식인 CRUD를 React에서 TS, React-Query 등을 활용하여 구현해보자.</b>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-v18.2.0-61DAFB?style=flat&logo=React&logoColor=white&style=for-the-badge"/> 
